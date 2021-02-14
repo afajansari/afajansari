@@ -7,7 +7,7 @@
 * Facebook:- [Mohammad Afaj Ansari (Page)](https://www.facebook.com/futururbandev)
 * Gmail:- [afajansari](mailto:afajansari@gmail.com)
 * Instagram:- [@afajansari](https://instagram.com/afajansari)
-* WhatsApp:- [DM](https://wa.me/8109106039?text=I'm%20from%20Your%20Link.%20How%20are%20you.)
+* WhatsApp:- [DM](https://wa.me/8109106039?text=I'm%20from%20Your%20Git%20Profile%20Link.%20How%20are%20you.)
 
 <!---
 afajansari/afajansari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
