@@ -6,7 +6,8 @@
 * Twitter:- [@afajansari](https://twitter.com/afajansari)
 * Facebook:- [Mohammad Afaj Ansari (Page)](https://www.facebook.com/futururbandev)
 * Gmail:- [afajansari](mailto:afajansari@gmail.com)
-* Instagram:- [@afajansari](https://instagram.com/afajansari)
+* Instagram:- [@afajansari](https://www.instagram.com/afajansari/)
+* Instagram:- [@design.mafaj](https://www.instagram.com/design.mafaj)
 * WhatsApp:- [DM](https://wa.me/8109106039?text=I'm%20from%20Your%20Git%20Profile%20Link.%20How%20are%20you.)
 
 <!---
