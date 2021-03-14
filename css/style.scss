@@ -11,8 +11,22 @@ header{
     nav{
         display: flex;
         width: 100%;
+        .logo-wrapper{
+            flex: 1 1 50%;
+        }
         .logo{
             
+        }
+        .menu{
+            flex: 1 1 50%;
+           > ul{
+                display: block !important   ;
+                list-style: none !important;
+                margin: 0 !important;
+                li{
+                    display: inline-block;
+                }
+            }
         }
     }
 }
