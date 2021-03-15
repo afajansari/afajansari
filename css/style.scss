@@ -7,26 +7,64 @@ html, body, header, section, div{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+body{
+    font-size: 16px;
+}
 header{
+    background-color: #fcfcfc;
+    box-shadow: 0 0 20px #00000020;
     nav{
         display: flex;
         width: 100%;
+        .nav-wrapper{
+            display: flex;
+        }
         .logo-wrapper{
             flex: 1 1 50%;
+            padding: 1.5em 0;
         }
         .logo{
-            
+            text-decoration: none;
+            font-family: 'Roboto', sans-serif;
+            font-size: 2em;
+            font-weight: 700;
+            line-height: 1;
+            color: #444;
         }
         .menu{
             flex: 1 1 50%;
+            align-items: center;
            > ul{
                 display: block !important   ;
                 list-style: none !important;
                 margin: 0 !important;
+                padding: 0 !important;
+                float: right;
                 li{
                     display: inline-block;
+                    padding: 1em 0;
+                    a{
+                        color: #444;
+                        display: block;
+                        text-decoration: none;
+                        text-transform: uppercase;
+                        font-size: 1em;
+                        font-family: 'Roboto', sans-serif;
+                        font-weight: 500;
+                        padding: 1em 0.5em;
+                        line-height: 1;
+                        letter-spacing: 1px;
+                        &:hover, &.active{
+                            color: #707070;
+                        }
+                    }
                 }
             }
         }
     }
+}
+.container{
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
 }

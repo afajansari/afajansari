@@ -9,6 +9,16 @@ html, body, header, section, div {
   font-family: 'Roboto', sans-serif;
 }
 
+body {
+  font-size: 16px;
+}
+
+header {
+  background-color: #fcfcfc;
+  -webkit-box-shadow: 0 0 20px #00000020;
+          box-shadow: 0 0 20px #00000020;
+}
+
 header nav {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -16,25 +26,70 @@ header nav {
   width: 100%;
 }
 
+header nav .nav-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 header nav .logo-wrapper {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
+  padding: 1.5em 0;
+}
+
+header nav .logo {
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  line-height: 1;
+  color: #444;
 }
 
 header nav .menu {
   -webkit-box-flex: 1;
       -ms-flex: 1 1 50%;
           flex: 1 1 50%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 header nav .menu > ul {
   display: block !important;
   list-style: none !important;
   margin: 0 !important;
+  padding: 0 !important;
+  float: right;
 }
 
 header nav .menu > ul li {
   display: inline-block;
+  padding: 1em 0;
+}
+
+header nav .menu > ul li a {
+  color: #444;
+  display: block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  padding: 1em 0.5em;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+
+header nav .menu > ul li a:hover, header nav .menu > ul li a.active {
+  color: #707070;
+}
+
+.container {
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
 }
 /*# sourceMappingURL=style.css.map */
