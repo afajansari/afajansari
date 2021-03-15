@@ -92,4 +92,22 @@ header nav .menu > ul li a:hover, header nav .menu > ul li a.active {
   max-width: 1170px;
   margin: 0 auto;
 }
+
+.profile-wrapper .profile-container {
+  margin-top: 3em;
+  padding: 1.5em 1em;
+  background-color: #544A4A;
+  border-radius: 1.5em;
+  -webkit-box-shadow: 0 5px 20px #00000020;
+          box-shadow: 0 5px 20px #00000020;
+}
+
+.project-wrapper .project-container {
+  margin-top: 3em;
+  padding: 1.5em 1em;
+  background-color: #FCFCFC;
+  border-radius: 1.5em;
+  -webkit-box-shadow: 0 5px 20px #00000020;
+          box-shadow: 0 5px 20px #00000020;
+}
 /*# sourceMappingURL=style.css.map */
