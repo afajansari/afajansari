@@ -1,3 +1,4 @@
+[![An image of @afajansari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/afajansari)](https://holopin.io/@afajansari)
 - 👋 Hi, I’m @afajansari
 - 👀 I’m interested in IoT and Full Stack Developemnt and lil bit Graphic Design.
 - 🌱 I’m currently learning Angular, React and Vue .
